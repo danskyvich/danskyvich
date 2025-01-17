@@ -42,8 +42,6 @@
 
 # Mabuhay, World!! 👋
 
-The world of tech is like a habitable planet with a fledging, type 0 civilization: nations, cultures, and civilizations all mingling together in their own special ways. If i have an infinite amount of eyes and brain power needed to even grasp each and every piece of unit this field has to offer, then maybe i can learn every thing that there is. Alas, Whoever that dwells above has only given me a pair of eyes, so i set my sights upon the beauty of Android Development!
-
 I believe in one single thing: *Everything can be learned!* (within your own range and capability, obviously), and i uphold this philosophy very well. As an Android Developer, i believe that each and every single of us deserves something of great value. The advancement of everyone towards something that benefits itself is the path I am willing to be part of. 
 
 Currently, I'm exploring the world of Android Development such as XML, Jetpack Compose, and Kotlin for the basics, with future plans to extend into Flutter, SQLite Database, and potentially, into Web Development!
