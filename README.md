@@ -42,7 +42,7 @@
 
 # Mabuhay, World!! 👋
 
-I believe in one single thing: *Everything can be learned!* (within your own range and capability, obviously), and i uphold this philosophy very well. As an Android Developer, i believe that each and every single of us deserves something of great value. The advancement of everyone towards something that benefits itself is the path I am willing to be part of. 
+I believe in one single thing: *Everything can be learned!* (within your own range and capability, obviously), and i uphold this philosophy very well. I believe that each and every single of us deserves something of great value. The advancement of everyone towards something that benefits itself is the path I am willing to be part of. 
 
 Currently, I'm exploring the world of Android Development such as XML, Jetpack Compose, and Kotlin for the basics, with future plans to extend into Flutter, SQLite Database, and potentially, into Web Development!
 
