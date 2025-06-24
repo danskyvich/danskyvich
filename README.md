@@ -1,5 +1,3 @@
-### *To be edited*
-
 ### ⚙️ Tech stack
 
 <details>
@@ -35,6 +33,7 @@
 -  Java <br> 
 -  HTML <br>
 -  CSS <br>
+- JavaScript <br>
 </details>
 
 <p align=center>
@@ -44,7 +43,7 @@
 
 I believe in one single thing: *Everything can be learned!* (within your own range and capability), and i uphold this philosophy very well. I believe that each and every single of us deserves something of great value. The advancement of everyone towards something that benefits itself is the path I am willing to be part of. 
 
-Currently, I'm exploring the world of Android Development such as XML, Jetpack Compose, and Kotlin for the basics, with future plans to extend into Flutter, SQLite Database, and potentially, into Web Development!
+Currently, I'm exploring the world of Android Development such as XML, Jetpack Compose, and Kotlin for the basics. As of mid-summer 2025, I am currently exploring JavaScript and React.js and beyond!
 
 ## 📊 My Git stats
 <a href="https://github.com/danskyvich/danskyvich">
