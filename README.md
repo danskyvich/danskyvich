@@ -36,7 +36,7 @@ I believe in one single thing: *Everything can be learned!* (within your own ran
 Currently, I'm exploring the world of Android Development and Web Development such as XML, Jetpack Compose, and Kotlin for the basics. As of mid-summer 2025, I am currently exploring JavaScript and React.js and beyond!
 
 ## 📊 My Git stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danskyvich&show_icons=true&theme=radical)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danskyvich/danskyvich/output/github-contribution-grid-snake-dark.svg">
