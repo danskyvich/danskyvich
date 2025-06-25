@@ -35,6 +35,12 @@ Currently, I'm exploring the world of Android Development and Web Development su
 <a href="https://github.com/danskyvich/danskyvich">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danskyvich&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danskyvich/danskyvich/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danskyvich/danskyvich/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/danskyvich/danskyvich/output/github-contribution-grid-snake.svg">
+</picture>
 <a href="https://github.com/danskyvich/Organizely">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=danskyvich&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="<CUSTOMIZE>" />
 </a>
