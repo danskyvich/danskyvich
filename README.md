@@ -1,49 +1,26 @@
-### ⚙️ Tech stack
+# ⚙️Tech Stack
 
-<details>
-<summary> Mobile Development</summary>
--  Java <br>
--  Gradle <br>
--  Kotlin <br>
--  Jetpack Compose <br>
-</details>
+<p align=center><b>Languages</b></p>
 
-<details>
-<summary> IDE Tools</summary>
--  VSCode <br>
--  Visual Studio <br> 
--  Atom <br>
--  Intellij IDEA <br>  
--  Android Studio <br>
--  Apache NetBeans <br>
-</details>
-
-<details>
-<summary> Graphics and Prototyping</summary>
--  Inkscape <br>
--  Adobe Photoshop <br> 
--  Adobe Animate <br>
--  Canva <br>
--  Figma <br>
-</details>
-
-<details>
-<summary> Languages</summary>
--  PHP <br>
--  Java <br> 
--  HTML <br>
--  CSS <br>
-- JavaScript <br>
-</details>
-
-<p align=center>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,java,js,kotlin,cs,cpp,php" />
+  </a>
 </p>
 
-# Mabuhay, World!! 👋
+<p align=center><b>IDEs and Tools</b></p>
 
-I believe in one single thing: *Everything can be learned!* (within your own range and capability), and i uphold this philosophy very well. I believe that each and every single of us deserves something of great value. The advancement of everyone towards something that benefits itself is the path I am willing to be part of. 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=androidstudio,vscode,visualstudio,eclipse,figma,gcp,firebase,atom,unity" />
+  </a>
+</p>
 
-Currently, I'm exploring the world of Android Development such as XML, Jetpack Compose, and Kotlin for the basics. As of mid-summer 2025, I am currently exploring JavaScript and React.js and beyond!
+# 👋Mabuhay, World!
+
+I believe in one single thing: *Everything can be learned!* (within your own range and capability), and i uphold this philosophy very well. I believe that each and every single of us deserves something of great value. The advancement towards something that benefits everyone is the path I am willing to be part of. 
+
+Currently, I'm exploring the world of Android Development and Web Development such as XML, Jetpack Compose, and Kotlin for the basics. As of mid-summer 2025, I am currently exploring JavaScript and React.js and beyond!
 
 ## 📊 My Git stats
 <a href="https://github.com/danskyvich/danskyvich">
