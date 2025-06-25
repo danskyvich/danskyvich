@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Danilo Pelin</h1>
+### Hi 👋, I'm 
+
+<h3 align="center"><a href="https://hud0shnik.github.io/">
+   <img alt="Danilo Pelin" src="https://readme-typing-svg.herokuapp.com/?lines=Danilo+Pelin;Web+Developer&font=Fira%20Code&width=440&height=45&color=68C3D4&vCenter=true&size=21"></a>
+</h3>
 <h3 align="center">A passionate, aspiring web developer from the Philippines!</h3>
 
 - 🔭 I’m currently working on **my portfolio website.**
@@ -32,13 +36,7 @@ I believe in one single thing: *Everything can be learned!* (within your own ran
 Currently, I'm exploring the world of Android Development and Web Development such as XML, Jetpack Compose, and Kotlin for the basics. As of mid-summer 2025, I am currently exploring JavaScript and React.js and beyond!
 
 ## 📊 My Git stats
-<a href="https://github.com/danskyvich/danskyvich">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danskyvich&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-
-<a href="https://github.com/danskyvich/Organizely">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=danskyvich&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="<CUSTOMIZE>" />
-</a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danskyvich/danskyvich/output/github-contribution-grid-snake-dark.svg">
