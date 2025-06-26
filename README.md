@@ -36,7 +36,10 @@ I believe in one single thing: *Everything can be learned!* (within your own ran
 Currently, I'm exploring the world of Android Development and Web Development such as XML, Jetpack Compose, and Kotlin for the basics. As of mid-summer 2025, I am currently exploring JavaScript and React.js and beyond!
 
 ## 📊 My Git stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danskyvich&show_icons=true&theme=radical)
+
+[![](https://raw.githubusercontent.com/danskyvich/danskyvich/main/profile-summary-card-output/material_palenight/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/danskyvich/danskyvich/main/profile-summary-card-output/material_palenight/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/danskyvich/danskyvich/main/profile-summary-card-output/material_palenight/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/danskyvich/danskyvich/main/profile-summary-card-output/material_palenight/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/danskyvich/danskyvich/main/profile-summary-card-output/material_palenight/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danskyvich/danskyvich/output/github-contribution-grid-snake-dark.svg">
