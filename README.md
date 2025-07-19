@@ -3,7 +3,7 @@
 <h3 align="center"><a href="https://hud0shnik.github.io/">
    <img alt="Danilo Pelin" src="https://readme-typing-svg.herokuapp.com/?lines=Danilo+Pelin;Web+Developer&font=Fira%20Code&width=440&height=45&color=68C3D4&vCenter=true&size=21"></a>
 </h3>
-<h3 align="center">A passionate, aspiring web developer from the Philippines!</h3>
+<h3 align="center">An aspiring web developer from the Philippines!</h3>
 
 - 🔭 I’m currently working on **my portfolio website.**
 
@@ -29,9 +29,9 @@
   </a>
 </p>
 
-# 👋Mabuhay, World!
+# 👋Welcome!
 
-I believe in one single thing: *Everything can be learned!* (within your own range and capability), and i uphold this philosophy very well. I believe that each and every single of us deserves something of great value. The advancement towards something that benefits everyone is the path I am willing to be part of. 
+I believe in one single thing: *Everything can be learned!* (within your range and capability), and I uphold this philosophy very well. Every single one of us deserves something of value. The advancement towards something that benefits everyone is the path I am willing to be part of. 
 
 Currently, I'm exploring the world of Android Development and Web Development such as XML, Jetpack Compose, and Kotlin for the basics. As of mid-summer 2025, I am currently exploring JavaScript and React.js and beyond!
 
