@@ -33,7 +33,7 @@
 
 I believe in one single thing: *Everything can be learned!* (within your range and capability), and I uphold this philosophy very well. Every single one of us deserves something of value. The advancement towards something that benefits everyone is the path I am willing to be part of. 
 
-Currently, I'm exploring the world of Android Development and Web Development such as XML, Jetpack Compose, and Kotlin for the basics. As of mid-summer 2025, I am currently exploring JavaScript and React.js and beyond!
+Currently, I'm exploring the world of Android Development and Web Development, such as XML, Jetpack Compose, and Kotlin for the basics. As of mid-summer 2025, I am currently exploring JavaScript and React.js.
 
 ## 📊 My Git stats
 
