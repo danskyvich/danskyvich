@@ -5,7 +5,7 @@
 </h3>
 <h3 align="center">A Front-end Developer from the Philippines!</h3>
 
-- 🔭 I’m currently working on **my portfolio website.**
+- 🔭 I’m currently working on **my portfolio website.**, utilizing HTML and CSS for web structure, styling, and aesthetic; and Node.js and Express.js for backend functionalities.
 
 - 🌱 I’m currently learning **React.js, Tailwindcss, and NoSQL.**
 
