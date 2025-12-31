@@ -5,9 +5,9 @@
 </h3>
 <h3 align="center">A Front-end Developer from the Philippines!</h3>
 
-- 🔭 I’m currently working on **my portfolio website.**, utilizing HTML and CSS for web structure, styling, and aesthetic; and Node.js and Express.js for backend functionalities.
+- 🔭 I’m currently working on **my portfolio website.**, utilizing HTML and CSS for web structure, styling, and aesthetic; and Javascript, React.js, and Node.js for backend/interactivity functionalities..
 
-- 🌱 I’m currently learning **React.js, Tailwindcss, and NoSQL.**
+- 🌱 I’m currently learning **React.js & Node.js**, and possibly into CSS frameworks.
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -33,7 +33,7 @@
 
 I believe in one single thing: *Everything can be learned!* (within your range and capability), and I uphold this philosophy very well. Every single one of us deserves something of value. The advancement towards something that benefits everyone is the path I am willing to be part of. 
 
-Currently, I'm exploring the world of Android Development and Web Development, such as XML, Jetpack Compose, and Kotlin for the basics. As of mid-summer 2025, I am currently exploring JavaScript and React.js.
+Currently, I'm exploring the field of front-end development (and after that, back-end development).
 
 ## 📊 My Git stats
 
@@ -47,4 +47,11 @@ Currently, I'm exploring the world of Android Development and Web Development, s
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/danskyvich/danskyvich/output/github-contribution-grid-snake.svg">
 </picture>
 
+## 🧮 About me!
+<!-- Spotify card -->
+<img src="https://duolingo-stats-card.vercel.app/api?username=DanPelins&theme=nightowl" alt="Duolingo Stats" />
 
+<!-- Spotify card -->
+<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=21usg552mafptx4r2one3fuda&custom_title=nilo's%20music%20taste">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=21usg552mafptx4r2one3fuda&custom_title=nilo's%20music%20taste" alt="Data Card for Spotify">
+</a>
