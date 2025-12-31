@@ -16,18 +16,6 @@
 <a href="https://instagram.com/danppelin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="danppelin" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">Languages</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,java,js,kotlin,cs,cpp,php" />
-  </a>
-</p>
-<h3 align="center">Tools</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,vscode,visualstudio,eclipse,figma,gcp,firebase,atom,unity" />
-  </a>
-</p>
 ## 📊 My Git stats
 
 [![](https://raw.githubusercontent.com/danskyvich/danskyvich/main/profile-summary-card-output/material_palenight/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
