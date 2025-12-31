@@ -28,13 +28,6 @@
     <img src="https://skillicons.dev/icons?i=androidstudio,vscode,visualstudio,eclipse,figma,gcp,firebase,atom,unity" />
   </a>
 </p>
-
-# 👋Welcome!
-
-I believe in one single thing: *Everything can be learned!* (within your range and capability), and I uphold this philosophy very well. Every single one of us deserves something of value. The advancement towards something that benefits everyone is the path I am willing to be part of. 
-
-Currently, I'm exploring the field of front-end development (and after that, back-end development).
-
 ## 📊 My Git stats
 
 [![](https://raw.githubusercontent.com/danskyvich/danskyvich/main/profile-summary-card-output/material_palenight/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
