@@ -1,14 +1,3 @@
-### ℍ𝕚! 𝕀'𝕞
-
-<h3 align="center"><a href="https://hud0shnik.github.io/">
-   <img alt="Danilo Pelin" src="https://readme-typing-svg.herokuapp.com/?lines=Danilo+Pelin;Web+Developer&font=Fira%20Code&width=440&height=45&color=68C3D4&vCenter=true&size=21"></a>
-</h3>
-<h3 align="center">A Front-end Developer from the Philippines!</h3>
-
-- 🔭 I’m currently working on **my portfolio website.**, utilizing HTML and CSS for web structure, styling, and aesthetic; and Javascript, React.js, and Node.js for backend/interactivity functionalities..
-
-- 🌱 I’m currently learning **React.js & Node.js**, and possibly into CSS frameworks.
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/danilo-pelin-220313322" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danilo-pelin-220313322" height="30" width="40" /></a>
