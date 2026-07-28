@@ -63,7 +63,9 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/danskyvich/danskyvich/output/github-contribution-grid-snake.svg">
 </picture>
 
-
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-stats-organization-github-readme-stats.svg)
 
 ## 𝔸𝕓𝕠𝕦𝕥 𝕞𝕖
 <!-- Duolingo card -->
