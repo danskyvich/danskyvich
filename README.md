@@ -65,7 +65,7 @@
 
 ![Stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
-![Pinned](./profile/pin-stats-organization-github-readme-stats.svg)
+![Pinned](./profile/pin-money-tracker.svg)
 
 ## 𝔸𝕓𝕠𝕦𝕥 𝕞𝕖
 <!-- Duolingo card -->
