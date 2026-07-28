@@ -69,12 +69,9 @@
 
 ## 𝔸𝕓𝕠𝕦𝕥 𝕞𝕖
 <!-- Duolingo card -->
-<div class='container' style="display: flex; flex: 1; flex-wrap: nowrap; object-fit: space-between ">
+<div style="display: flex, flex-direction: row, justify-content: center">
 <img style="height: auto; width: 50%; flex: 1;" class="img" src="https://duolingo-stats-card.vercel.app/api?username=DanPelins&theme=nightowl" alt="Duolingo Stats" />
-&nbsp;
-</div>
+  
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=21usg552mafptx4r2one3fuda&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=21usg552mafptx4r2one3fuda&redirect=true)
 
-<!-- Spotify card -->
-<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=21usg552mafptx4r2one3fuda&custom_title=nilo's%20music%20taste">
-  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=21usg552mafptx4r2one3fuda&custom_title=My%20music%20taste" alt="Data Card for Spotify">
-</a>
+</div>
