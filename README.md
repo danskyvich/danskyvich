@@ -72,6 +72,6 @@
 <div style="display: flex, flex-direction: row, justify-content: center">
 <img style="height: auto; width: 50%; flex: 1;" class="img" src="https://duolingo-stats-card.vercel.app/api?username=DanPelins&theme=nightowl" alt="Duolingo Stats" />
   
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=21usg552mafptx4r2one3fuda&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=21usg552mafptx4r2one3fuda&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=21usg552mafptx4r2one3fuda&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=true&hide_remaster=false&bar_color=ff0000)](https://spotify-github-profile.kittinanx.com/api/view?uid=21usg552mafptx4r2one3fuda&redirect=true)
 
 </div>
