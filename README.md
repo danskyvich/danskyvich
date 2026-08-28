@@ -5,7 +5,6 @@
 - 🧑‍💻I'm currently proficient with **HTML, CSS, Javascript**, **Typescript**, **TailwindCSS**, and **React**.
 - 🔨Working front-end using **VSCode**, prototyping via **Figma** and **Canva**, and coding within **Vite**, and **Nextjs** frameworks.
 - 🍀Currently exploring the field of backend development, starting with **Supabase**, **GCP**, and **reCAPTCHA v3**.
-- ⚙️A novice of **Java**, **PHP**, and **Python** languages! 
 
 <!-- social icons -->
 <h3 align="center">Connect with me:</h3>
