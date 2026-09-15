@@ -1,11 +1,23 @@
 <h1 align="center">👋Hi! I'm Danilo!</h1>
 <h3 align="center">I'm a front-end developer who loves building websites :)</h3>
 
-
-- 🧑‍💻I'm currently proficient with **HTML, CSS, Javascript**, **Typescript**, **TailwindCSS**, and **React**.
-- 🔨Working front-end using **VSCode**, prototyping via **Figma** and **Canva**, and coding within **Vite**, and **Nextjs** frameworks.
-- 🍀Currently exploring the field of backend development, starting with **Supabase**, **GCP**, and **reCAPTCHA v3**.
-
+<!-- about me in code block -->
+```javascript
+const aboutMe = [
+  {
+    proficiency: [ "HTML", "CSS", "JavaScript", "TypeScript", "TailwindCSS", "React", "Supabase",
+    "Next.JS", "Figma" ]
+  },
+  {
+    likes_building: [ "Websites", "Maps", "Stories" ]
+  },
+  {
+    learning: [ "ASP.NET", "C#", "APIs", "Postman", "Backend stuff", "SQL" ]
+  },
+  motto: "Curiousity above all",
+  challenge: "Just do it.",
+]
+```
 <!-- social icons -->
 <h3 align="center">Connect with me:</h3>
 <p align="center">
