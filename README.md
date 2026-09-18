@@ -18,7 +18,10 @@ const aboutMe = [
   challenge: "Just do it.",
 ]
 ```
-<!-- social icons -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=danskyvich&style=flat-square" alt="Views">
+</p>
+<!--
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/danilo-pelin-220313322" target="blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/linkedin.svg" alt="danilo-pelin-220313322" height="30" width="40" /></a>
@@ -27,7 +30,8 @@ const aboutMe = [
 <a href="https://open.spotify.com/user/21usg552mafptx4r2one3fuda?si=f97d0c62b39948fb" target="blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/spotify.svg" alt="danilo-pelin-spotify" height="30" width="40" /></a>
 <a href="https://github.com/danskyvich" target="blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/github.svg" alt="danilo-pelin-github" height="30" width="40" /></a>
 </p>
-
+-->
+<!--
 ## 𝚝𝚘𝚘𝚕𝚜 𝚊𝚗𝚍 𝚕𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜
 <div class="display: flex, flex-direction: row">
   <img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white"/>
@@ -65,7 +69,8 @@ const aboutMe = [
   <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white"/>
   
 </div>
-
+-->
+<!--
 ## 𝔾𝕚𝕥 𝕤𝕥𝕒𝕥𝕤
 
 <picture>
@@ -77,3 +82,4 @@ const aboutMe = [
 ![Stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
 ![Pinned](./profile/pin-money-tracker.svg)
+-->
