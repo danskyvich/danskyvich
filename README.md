@@ -21,6 +21,9 @@ const aboutMe = [
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=danskyvich&style=flat-square" alt="Views">
 </p>
+
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
 <!--
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -79,7 +82,4 @@ const aboutMe = [
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/danskyvich/danskyvich/output/github-contribution-grid-snake.svg">
 </picture>
 
-![Stats](./profile/stats.svg)
-![Top Languages](./profile/top-langs.svg)
-![Pinned](./profile/pin-money-tracker.svg)
 -->
